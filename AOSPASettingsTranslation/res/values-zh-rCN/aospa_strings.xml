@@ -171,14 +171,19 @@
     <string name="theme_customization_icon_pack_title">图标</string>
     <string name="soc_model">SoC 型号</string>
     <string name="total_ram">总内存容量</string>
-    <string name="build_date">Build 时间</string>
+    <string name="build_date">编译日期</string>
     <string name="game_space_title">游戏空间</string>
     <string name="game_space_summary">提升您的游戏体验</string>
-    <string name="berry_black_theme_title">纯黑色</string>
-    <string name="berry_black_theme_summary">暗色主题使用纯黑色背景</string>
     <string name="app_volume">应用音量</string>
     <string name="app_volume_title">每个应用的音量控制</string>
     <string name="app_volume_summary">在音量对话框中显示每个应用的音量按钮</string>
     <string name="volume_panel_expandable_title">可展开的音量条</string>
     <string name="volume_panel_expandable_summary">展开音量条，而不是从底部显示</string>
+    <string name="preferred_5g_mode_title">设置 5G 模式</string>
+    <string name="preferred_5g_mode_summary">为每张 SIM 卡配置首选 5G 模式</string>
+    <string name="haptic_effect_style_title">触感反馈风格</string>
+    <string name="touch_rate_title">高触控采样率</string>
+    <string name="touch_rate_summary">提高触摸屏采样率</string>
+    <string name="touch_sensitivity_title">触摸屏高灵敏度</string>
+    <string name="touch_sensitivity_summary">增加触摸屏的灵敏度，以便在戴手套时使用</string>
 </resources>
