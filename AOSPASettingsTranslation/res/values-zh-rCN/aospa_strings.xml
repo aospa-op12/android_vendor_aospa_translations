@@ -186,4 +186,5 @@
     <string name="touch_rate_summary">提高触摸屏采样率</string>
     <string name="touch_sensitivity_title">触摸屏高灵敏度</string>
     <string name="touch_sensitivity_summary">增加触摸屏的灵敏度，以便在戴手套时使用</string>
+    <string name="radio_info_title">手机信息</string>
 </resources>
