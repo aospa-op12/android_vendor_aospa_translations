@@ -187,4 +187,6 @@
     <string name="touch_sensitivity_title">触摸屏高灵敏度</string>
     <string name="touch_sensitivity_summary">增加触摸屏的灵敏度，以便在戴手套时使用</string>
     <string name="radio_info_title">手机信息</string>
+    <string name="ltpo_features_title">启用 LTPO 功能</string>
+    <string name="ltpo_features_summary">开启设备特有的自适应待机与帧率调节功能，以提升能效</string>
 </resources>
